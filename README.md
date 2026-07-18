@@ -21,7 +21,7 @@
 
 ## Quick start
 
-No installer needed. Grab the exe from [**Releases**](https://github.com/PookiePepelsss/MultiRoblox-RAM/releases) and run it.
+No installer needed. Grab the exe from [**Releases**](https://github.com/ASkibidiPerson/MultiRoblox/releases/tag/MultiRoblox) and run it.
 
 Or build it yourself:
 
